@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/node_modules/**": true,
+    "**/.jest/": true,
+    "**/circle-ci/": true
+  },
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "es5",
+}
