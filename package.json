@@ -1,0 +1,15 @@
+{
+  "name": "pidgin-speaks",
+  "version": "0.0.1",
+  "description": "Translation shenanigans in Discord",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Fuiste/pidgin-speaks.git",
+  "author": "Rudy Pelrine <drawncloser@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
